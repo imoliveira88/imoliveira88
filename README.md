@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imoliveira88
 - 👀 I’m interested in coding, math, algorithms, philosophy... well, i'm starting to deviate myself... ;)
-- 🌱 I’m currently learning: keep in contact to know ;)
+- 🌱 I’m currently learning: keep in touch to know ;)
 - 💞️ I’m looking to collaborate on everything concerning my interested areas. I'm a pretty enthusiastic guy when the subject is on my interests!
 - 📫 How to reach me: just e-mail me, dude (magalhaes.oliveira@outlook.com)!
 
