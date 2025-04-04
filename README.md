@@ -25,7 +25,9 @@ Passionate for programming and querying databases searching for answers, he's ad
 - Copergás App: react-native application, used to provide services to Copergás customers (React-native, Node.js)
 - Endpoint HeFX: API used to integrate a maintenance software (hosted on cloud) to internal systems, in the frame of Copergás (Spring Boot, Swagger)
 
+## Resume
 
+[My resume in PDF](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-11FEV2025.pdf)
 
 ## Keep in touch
 
