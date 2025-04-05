@@ -1,20 +1,21 @@
 ## About me
 
-<img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
+    </td>
+    <td>
+      <p></p>Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN). Currently living in Recife, in brazilian northeast, he has a nomad history, having lived in cities like Maceió, Recife, Rio de Janeiro and Campinas, covering almost all of Brazil.</p>
 
-Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN). Currently living in Recife, in brazilian northeast, he has a nomad history, having lived in cities like Maceió, Recife, Rio de Janeiro and Campinas, covering almost all of Brazil.
+<p>Passionate for programming and querying databases searching for answers, he's addicted to continuous learning. Solve problems and fix bugs is part of him.</p>
+    </td>
+  </tr>
+</table>
 
-Passionate for programming and querying databases searching for answers, he's addicted to continuous learning. Solve problems and fix bugs is part of him.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imoliveira88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imoliveira88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
 
-</div>
-
-###
 
 ## Technologies
 
