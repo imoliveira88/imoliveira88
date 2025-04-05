@@ -49,7 +49,7 @@
 
 ## 📄 Resume
 
-[👉 Click here to view my resume (PDF)](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-11FEV2025.pdf)
+[👉 Click here to view my resume (PDF)](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-05APR2025.pdf)
 
 ## 📬 Keep in Touch
 
