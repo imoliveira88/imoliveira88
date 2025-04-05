@@ -49,12 +49,11 @@
 
 ## 📄 Resume
 
-🧾 Looking for more details about my experience and skills?  
 [👉 Click here to view my resume (PDF)](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-11FEV2025.pdf)
 
 ## 📬 Keep in Touch
 
-- ✉️ E-mail: [magalhaes.oliveira@outlook.com](mailto:magalhaes.oliveira@outlook.com)
+- E-mail: [magalhaes.oliveira@outlook.com](mailto:magalhaes.oliveira@outlook.com)
 
 ## 📍 Current Location
 
