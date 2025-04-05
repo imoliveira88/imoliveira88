@@ -1,6 +1,6 @@
 ## About me
 
-<table>
+<table border=0>
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
