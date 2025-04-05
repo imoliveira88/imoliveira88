@@ -37,14 +37,16 @@
 - In-memory datastore: Redis
 - Data Analysis: SQL, Python
 
-## Highlights
+## 🚀 Highlights
 
-- SisChamados 3.0: services management system, developed following requirements from a Brazilian Navy storage center (Java, JSF, JPA, Javascript Postgres)
-- SisControl 1.0: surveillance system, used to integrate cameras and air-conditioning systems placed in weapons storages, in order to control optimal conditions (Java, JSF, Javascript)
-- OptiMaster: system used to monitor fibers health, along Oil & Gas pipelines (Java, Ruby on Rails, Javascript, Postgres)
-- SINC: communication system, used to deliver electronic messages to Copergás customers (Python/Django, Redis, Celery, Docker)
-- Copergás App: react-native application, used to provide services to Copergás customers (React-native, Node.js)
-- Endpoint HeFX: API used to integrate a maintenance software (hosted on cloud) to internal systems, in the frame of Copergás (Spring Boot, Swagger)
+| System            | Description                                                                                                               | Tech Stack                                                   |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 🛠️ **SisChamados 3.0** | Service management system developed for a Brazilian Navy storage center.                                                  | `Java`, `JSF`, `JPA`, `JavaScript`, `PostgreSQL`            |
+| 🎥 **SisControl 1.0**  | Surveillance and environmental control system for weapons storage units, integrating cameras and A/C systems.         | `Java`, `JSF`, `JavaScript`                                 |
+| 🛢️ **OptiMaster**      | Monitoring platform for fiber health along Oil & Gas pipelines.                                                       | `Java`, `Ruby on Rails`, `JavaScript`, `PostgreSQL`         |
+| ✉️ **SINC**            | Communication system for delivering electronic messages to Copergás customers.                                         | `Python (Django)`, `Redis`, `Celery`, `Docker`              |
+| 📱 **Copergás App**    | Mobile application offering services and account access to Copergás customers.                                         | `React Native`, `Node.js`                                   |
+| 🔧 **Endpoint HeFX**   | API integrating cloud-based maintenance software with Copergás internal systems.                                       | `Spring Boot`, `Swagger`                                    |
 
 ## Resume
 
