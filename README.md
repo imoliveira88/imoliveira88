@@ -2,14 +2,13 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250" style="border-radius: 12px;" />
     </td>
-    <td style="border: none;">
-      <p>Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN). Currently living in Recife, in brazilian northeast, he has a nomad history, having lived in cities like Maceió, Recife, Rio de Janeiro and Campinas, covering almost all of Brazil.</p>
+    <td style="border: none; vertical-align: top; font-size: 16px; line-height: 1.6;">
+      <p><strong>Igor Magalhães</strong>, Systems Analyst and Fullstack Developer (bilingual: PT/EN), based in Recife — a vibrant city in Brazil’s northeast. With a nomadic journey through cities like Maceió, Rio de Janeiro, and Campinas, he has explored and experienced a wide range of Brazilian culture and tech ecosystems.</p>
 
-<p>Passionate for programming and querying databases searching for answers, he's addicted to continuous learning. Solve problems and fix bugs is part of him.</p>
-    </td>
+      <p>A true enthusiast of programming and data exploration, Igor thrives on continuous learning. Whether it's solving tough problems or chasing down elusive bugs, he’s always up for the challenge.</p>
     </td>
   </tr>
 </table>
