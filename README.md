@@ -6,7 +6,12 @@
       <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
     </td>
     <td>
-      <p></p>Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN). Currently living in Recife, in brazilian northeast, he has a nomad history, having lived in cities like Maceió, Recife, Rio de Janeiro and Campinas, covering almost all of Brazil.</p>
+      <p>Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN)
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <p>Currently living in Recife, in brazilian northeast, he has a nomad history, having lived in cities like Maceió, Recife, Rio de Janeiro and Campinas, covering almost all of Brazil.</p>
 
 <p>Passionate for programming and querying databases searching for answers, he's addicted to continuous learning. Solve problems and fix bugs is part of him.</p>
     </td>
