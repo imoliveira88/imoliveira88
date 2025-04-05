@@ -2,13 +2,13 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250" style="border-radius: 12px;" />
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/e47ccaee-3d1b-422b-9578-316a715ad172" width="250"/>
     </td>
-    <td style="border: none; vertical-align: top; font-size: 16px; line-height: 1.6;">
-      <p><strong>Igor Magalhães</strong>, Systems Analyst and Fullstack Developer (bilingual: PT/EN), based in Recife — a vibrant city in Brazil’s northeast. With a nomadic journey through cities like Maceió, Rio de Janeiro, and Campinas, he has explored and experienced a wide range of Brazilian culture and tech ecosystems.</p>
+    <td style="border: none;">
+      <p>Igor Magalhães, Systems Analyst and Fullstack bilingual Developer (PT/EN), based in Recife — a vibrant city in Brazil’s northeast. With a nomadic journey through cities like Maceió, Rio de Janeiro, and Campinas, he has explored and experienced a wide range of Brazilian culture and tech ecosystems.</p>
 
-      <p>A true enthusiast of programming and data exploration, Igor thrives on continuous learning. Whether it's solving tough problems or chasing down elusive bugs, he’s always up for the challenge.</p>
+<p>A true enthusiast of programming and data exploration, Igor thrives on continuous learning. Whether it's solving tough problems or chasing down elusive bugs, he’s always up for the challenge.</p>
     </td>
   </tr>
 </table>
@@ -47,19 +47,20 @@
 | 📱 **Copergás App**    | Mobile application offering services and account access to Copergás customers.                                         | `React Native`, `Node.js`                                   |
 | 🔧 **Endpoint HeFX**   | API integrating cloud-based maintenance software with Copergás internal systems.                                       | `Spring Boot`, `Swagger`                                    |
 
-## Resume
+## 📄 Resume
 
-[My resume in PDF](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-11FEV2025.pdf)
+🧾 Looking for more details about my experience and skills?  
+[👉 Click here to view my resume (PDF)](https://github.com/imoliveira88/imoliveira88/blob/main/resume-en-11FEV2025.pdf)
 
-## Keep in touch
+## 📬 Keep in Touch
 
-- E-mail: magalhaes.oliveira@outlook.com
+- ✉️ E-mail: [magalhaes.oliveira@outlook.com](mailto:magalhaes.oliveira@outlook.com)
 
-## Current location
+## 📍 Current Location
 
-- [ ] Maceió
-- [x] Recife
-- [ ] Rio de Janeiro
+- [ ] Maceió  
+- [x] **Recife** ✅  
+- [ ] Rio de Janeiro  
 - [ ] Campinas
 <!---
 imoliveira88/imoliveira88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
