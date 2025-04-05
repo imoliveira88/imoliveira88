@@ -54,8 +54,8 @@
 ## 📬 Keep in Touch
 
 - E-mail: [magalhaes.oliveira@outlook.com](mailto:magalhaes.oliveira@outlook.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Magalhães-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/igor-magalh%C3%A3es-101b63234/)
-
+- [LinkedIn: Igor Magalhães](https://www.linkedin.com/in/igor-magalh%C3%A3es-101b63234/)
+- 
 ## 📍 Current Location
 
 - [ ] Maceió  
